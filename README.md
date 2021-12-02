@@ -89,19 +89,12 @@
 
 本项目由 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 提供 API，已经包含在本项目的`netease_api`目录
 
-### 4.部署至 Vercel
 
-1. 部署网易云 API，详情参见 [Binaryify/NeteaseCloudMusicApi](https://neteasecloudmusicapi.vercel.app/#/?id=安装) 。你也可以将 API 部署到 `Vercel`
-2. 点击本仓库右上角的 Fork，复制本仓库到你的 GitHub 账号
-3. 打开 [Vercel.com](https://vercel.com/)，使用 GitHub 登录
-4. 点击 `Import Git Repository` 并选择你刚刚复制的仓库并点击 `Import`
-5. 点击 `PERSONAL ACCOUNT` 旁边的 `Select`
-6. 点击 `Environment Variables`，填写 Name 为 `VUE_APP_NETEASE_API_URL`，`Value` 为你刚刚部署的网易云 API 地址，点击 Add。最后点击底部的 Deploy 就可以部署到 Vercel 了
 
-## 5.  开源许可
+## 4.  开源许可
 本项目仅供个人学习研究使用，禁止用于商业及非法用途。
 
 
-## 6. 截图
+## 5. 截图
 
 ![e50243f0a97ddd38ed3b600c2dac52f](https://user-images.githubusercontent.com/42907149/144467981-1fac130b-317e-424a-81b5-84cc2829dc5b.png)
