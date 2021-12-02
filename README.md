@@ -87,7 +87,7 @@
 
 ## 3. 配置开发环境
 
-本项目由 [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) 提供 API，已经包含在本项目的`netease_api`目录
+本项目由 [NeteaseCloudMusicApi](https://github.com/ACwin/master-cloud-music) 提供 API
 
 
 
